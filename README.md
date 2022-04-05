@@ -12,5 +12,6 @@ O sistema deve conter:
 • Excluir Pedido.
 • Editar Produto.
 • Editar Pedido.
+•
 Obs.: Na lista de pedidos o sistema deve mostrar o somatório dos valores e a quantidade
 de produtos adicionados para cada pedido conforme o exemplo abaixo.
